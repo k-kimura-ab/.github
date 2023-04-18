@@ -1,0 +1,12 @@
+{
+    "name": "k-kimura-ab Organization Workflow",
+    "description": "k-kimura-ab Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "C#",
+        "ASP.NET"
+    ],
+    "filePatterns": [
+        ".*\\.csproj$"
+    ]
+}
